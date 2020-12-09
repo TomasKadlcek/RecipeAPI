@@ -12,6 +12,6 @@ public class RecipeController {
     @Autowired
     RecipeService recipeService;
 
-    
+
 
 }
